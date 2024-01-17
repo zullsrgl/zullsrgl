@@ -14,3 +14,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zullsrgl&show_icons=true&locale=en" alt="zullsrgl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zullsrgl&" alt="zullsrgl" /></p>
+
+
+
+![snake gif](https://github.com/zullsrgl/zullsrgl/blob/output/github-contribution-grid-snake.gif)

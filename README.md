@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zülal</h1>
-<h3 align="center">A passionate JR. iOS developer from Türkiye</h3>
+<h3 align="center">A passionate Jr. iOS developer from Türkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zülal sarıoğlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zülal sarıoğlu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zülal-sarıoğlu-566531229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zülal sarıoğlu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

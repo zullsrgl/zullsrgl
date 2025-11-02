@@ -1,20 +1,52 @@
-<h1 align="center">Hi 👋, I'm Zülal</h1>
-<h3 align="center">A passionate Jr. iOS developer from Türkiye</h3>
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#007AFF;">Zülal Sarıoğlu</span></h1>
+<h3 align="center">🚀 Passionate Junior iOS Developer from Türkiye</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zülal-sarıoğlu-566531229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zülal sarıoğlu" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/iOS-Developer-black?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zullsrgl&show_icons=true&locale=en&layout=compact" alt="zullsrgl" /></p>
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/zülal-sarıoğlu-566531229/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-007AFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zullsrgl&show_icons=true&locale=en" alt="zullsrgl" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zullsrgl&" alt="zullsrgl" /></p>
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,apple,firebase,git,postman,figma,vscode" />
+</p>
 
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zullsrgl&show_icons=true&theme=swift&hide_border=true&bg_color=ffffff&title_color=007AFF&icon_color=007AFF" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zullsrgl&layout=compact&theme=swift&hide_border=true&bg_color=ffffff&title_color=007AFF" alt="Top Languages" height="160"/>
+</p>
 
-![snake gif](https://github.com/zullsrgl/zullsrgl/blob/output/github-contribution-grid-snake.gif)
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zullsrgl&theme=swift&hide_border=true&ring=007AFF&fire=FF9500&currStreakLabel=007AFF" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 💬 About Me
+- 🎓 I’m improving myself in **Swift & iOS Development**  
+- 💡 Interested in **UI/UX**, **SwiftUI**, and **Firebase**  
+- 📱 Currently working on my own iOS projects  
+- ✨ Always open to learning new technologies  
+
+---
+
+<h3 align="center">✨ "Code. Create. Inspire." ✨</h3>
